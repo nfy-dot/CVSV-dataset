@@ -34,13 +34,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text">
-                    <div class="title">Coherent Video Story Visualization (CVSV) Dataset</div>
-                    <!-- <div class="author">
-                      <a href="https://yulu.net.cn/" target="_blank">Lu Yu<sup>1</sup></a>
-                      <a href="https://github.com/nfy-dot" target="_blank">Feiyue Ni<sup>2</sup></a>
-                      <a href="http://dahua.site/" target="_blank">TO DO<sup>1</sup></a>
+                    <div class="title">Show Me a Video: A Large-Scale Narrated Video Dataset for Coherent Story Illustration</div>
+                    <div class="author">
+                      <!-- <a href="https://yulu.net.cn/" target="_blank">Lu Yu<sup>1</sup></a> -->
+                      Yu Lu, Feiyue Ni, Haofan Wang, Xiaofeng Guo, <br>
+                      Linchao Zhu, Zongxin Yang, Ruihua Song, Lele Cheng, Yi Yang
                   </div>
-                  <div class="affiliation">
+                  <!-- <div class="affiliation">
                       University of Technology Sydney<sup>1</sup> &nbsp;&nbsp;&nbsp;&nbsp;
                       Renmin University of China<sup>2</sup> &nbsp;&nbsp;&nbsp;&nbsp;
                   </div> -->
@@ -50,13 +50,31 @@
         </div>
     </div>
     <div class="container article-main">
-        <div class="pic-wrapper-1">
-            <br>
-            <img src="imgs/teaser.jpg">
-        </div>
+        <div class="section dashed">
+          <h4>Abstract </h4>
+          <div class="abstract justify-text-between">
+            Illustrating a multi-sentence story with visual content is a significant challenge in 
+            multimedia research. While previous works have focused on sequential story-to-visual 
+            representations at the image level or depicting a single sentence with a video clip, 
+            creating coherent videos for a long multi-sentence story remains an under-explored area. 
+            In this paper, we propose the task of Video-based Story Illustration that focuses on the 
+            goal of visually illustrating a story with retrieved video clips. To support this task, 
+            we first create a large-scale dataset of coherent video stories, consisting of 85K narrative 
+            stories with 60 pairs of consistent clips and texts. We then propose the Story Context-Enhanced 
+            Model, which leverages local and global contextual information within the story, inspired by 
+            sequence modeling in language understanding. Through comprehensive quantitative experiments, 
+            we demonstrate the effectiveness of our baseline model. Qualitative results and detailed user 
+            studies reveal that our method can produce coherent video sequences from stories. The dataset 
+            and code will be made publicly available upon acceptance.
+          </div>
+      </div>
 
         <div class="section dashed">
-            <h4>What is CVSV? </h4>
+            <h4>CVSV dataset </h4>
+            <div class="pic-wrapper-1">
+              <br>
+              <img src="imgs/teaser.jpg">
+            </div>
             <div class="abstract justify-text-between">
               Coherent Video Story Visualization (CVSV) is a large-scale multi-sentence dataset
               created to enable the research in the Video-based Story Illustration.
@@ -67,9 +85,23 @@
               and global visual coherence. To the best of our knowledge, CVSV is the largest video dataset 
               with long story content.
             </div>
+
+            
+            
+            <div class="row color-light justify-text-between abs-mg-bot">
+
+                <div class="col-md-6", style="float:none;margin:auto;">
+                    <video class="video-fluid z-depth-1" controls muted>
+                        <source src="videos/45075632772.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                    Example clips and <a href="jsons/45075632772.json">Metadata</a> from CVSV dataset.
+                </div>
+              </div>
+
         </div>
 
-        <div class=" section dashed">
+        <!-- <div class=" section dashed">
             <h4>Preview</h4>
             Example clips and metadata.
             <div class="row color-light justify-text-between abs-mg-bot">
@@ -81,15 +113,15 @@
                     <a href="jsons/45075632772.json">Metadata.</a>
                 </div>
 
-                <!-- <div class="col-md-6">
+                <div class="col-md-6">
                   <video class="video-fluid z-depth-1" controls muted>
                       <source src="videos/" type="video/mp4">
                       Your browser does not support the video tag.
                   </video>
                   <a href="jsons/45075632772.json">Metadata.</a>
-              </div> -->
+              </div>
             </div>
-        </div>
+        </div> -->
 
         
         <div class="section dashed">

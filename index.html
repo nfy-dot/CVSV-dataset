@@ -27,6 +27,18 @@
     <!-- include css -->
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+
+    <style>
+        .scrollable-container {
+            max-height: 300px;
+            /* 设置最大高度 */
+            overflow-y: auto;
+            /* 启用垂直滚动条 */
+            /* 可选：添加其他样式，如背景色等 */
+        }
+    </style>
+
 </head>
 
 <body>
@@ -34,13 +46,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text">
-                    <div class="title">Show Me a Video: A Large-Scale Narrated Video Dataset for Coherent Story Illustration</div>
+                    <div class="title">Show Me a Video: A Large-Scale Narrated Video Dataset for Coherent Story
+                        Illustration</div>
                     <div class="author">
-                      <!-- <a href="https://yulu.net.cn/" target="_blank">Lu Yu<sup>1</sup></a> -->
-                      Yu Lu, Feiyue Ni, Haofan Wang, Xiaofeng Guo, <br>
-                      Linchao Zhu, Zongxin Yang, Ruihua Song, Lele Cheng, Yi Yang
-                  </div>
-                  <!-- <div class="affiliation">
+                        <!-- <a href="https://yulu.net.cn/" target="_blank">Lu Yu<sup>1</sup></a> -->
+                        Yu Lu, Feiyue Ni, Haofan Wang, Xiaofeng Guo, <br>
+                        Linchao Zhu, Zongxin Yang, Ruihua Song, Lele Cheng, Yi Yang
+                    </div>
+                    <!-- <div class="affiliation">
                       University of Technology Sydney<sup>1</sup> &nbsp;&nbsp;&nbsp;&nbsp;
                       Renmin University of China<sup>2</sup> &nbsp;&nbsp;&nbsp;&nbsp;
                   </div> -->
@@ -51,102 +64,150 @@
     </div>
     <div class="container article-main">
         <div class="section dashed">
-          <h4>Abstract </h4>
-          <div class="abstract justify-text-between">
-            Illustrating a multi-sentence story with visual content is a significant challenge in 
-            multimedia research. While previous works have focused on sequential story-to-visual 
-            representations at the image level or depicting a single sentence with a video clip, 
-            creating coherent videos for a long multi-sentence story remains an under-explored area. 
-            In this paper, we propose the task of Video-based Story Illustration that focuses on the 
-            goal of visually illustrating a story with retrieved video clips. To support this task, 
-            we first create a large-scale dataset of coherent video stories, consisting of 85K narrative 
-            stories with 60 pairs of consistent clips and texts. We then propose the Story Context-Enhanced 
-            Model, which leverages local and global contextual information within the story, inspired by 
-            sequence modeling in language understanding. Through comprehensive quantitative experiments, 
-            we demonstrate the effectiveness of our baseline model. Qualitative results and detailed user 
-            studies reveal that our method can produce coherent video sequences from stories. The dataset 
-            and code will be made publicly available upon acceptance.
-          </div>
-      </div>
+            <h4>Abstract </h4>
+            <div class="abstract justify-text-between">
+                Illustrating a multi-sentence story with visual content is a significant challenge in
+                multimedia research. While previous works have focused on sequential story-to-visual
+                representations at the image level or depicting a single sentence with a video clip,
+                creating coherent videos for a long multi-sentence story remains an under-explored area.
+                In this paper, we propose the task of Video-based Story Illustration that focuses on the
+                goal of visually illustrating a story with retrieved video clips. To support this task,
+                we first create a large-scale dataset of coherent video stories, consisting of 85K narrative
+                stories with 60 pairs of consistent clips and texts. We then propose the Story Context-Enhanced
+                Model, which leverages local and global contextual information within the story, inspired by
+                sequence modeling in language understanding. Through comprehensive quantitative experiments,
+                we demonstrate the effectiveness of our baseline model. Qualitative results and detailed user
+                studies reveal that our method can produce coherent video sequences from stories. The dataset
+                and code will be made publicly available upon acceptance.
+            </div>
+        </div>
 
         <div class="section dashed">
             <h4>CVSV dataset </h4>
             <div class="pic-wrapper-1">
-              <br>
-              <img src="imgs/teaser.jpg">
+                <br>
+                <img src="imgs/teaser.jpg">
             </div>
             <div class="abstract justify-text-between">
-              Coherent Video Story Visualization (CVSV) is a large-scale multi-sentence dataset
-              created to enable the research in the Video-based Story Illustration.
-              CVSV dataset contains 85K story-video pairs. Each story-video pair consists of 60 pairs
-              of consistent sentences and coherent clips, where sentences are from narrative stories 
-              instead of independent descriptions. We choose movie recap videos as our data source to 
-              build a dataset of high-quality videos and stories because of their inherent storytelling 
-              and global visual coherence. To the best of our knowledge, CVSV is the largest video dataset 
-              with long story content.
+                Coherent Video Story Visualization (CVSV) is a large-scale multi-sentence dataset
+                created to enable the research in the Video-based Story Illustration.
+                CVSV dataset contains 85K story-video pairs. Each story-video pair consists of 60 pairs
+                of consistent sentences and coherent clips, where sentences are from narrative stories
+                instead of independent descriptions. We choose movie recap videos as our data source to
+                build a dataset of high-quality videos and stories because of their inherent storytelling
+                and global visual coherence. To the best of our knowledge, CVSV is the largest video dataset
+                with long story content.
             </div>
 
-            
-            
+
+
             <div class="row color-light justify-text-between abs-mg-bot">
 
-                <div class="col-md-6", style="float:none;margin:auto;">
+                <div class="col-md-6" , style="float:none;margin:auto;">
                     <video class="video-fluid z-depth-1" controls muted>
                         <source src="videos/45075632772.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     Example clips and <a href="jsons/45075632772.json">Metadata</a> from CVSV dataset.
                 </div>
-              </div>
+            </div>
 
         </div>
 
-        <!-- <div class=" section dashed">
-            <h4>Preview</h4>
-            Example clips and metadata.
-            <div class="row color-light justify-text-between abs-mg-bot">
-                <div class="col-md-6">
-                    <video class="video-fluid z-depth-1" controls muted>
-                        <source src="videos/45075632772.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                    <a href="jsons/45075632772.json">Metadata.</a>
-                </div>
 
-                <div class="col-md-6">
-                  <video class="video-fluid z-depth-1" controls muted>
-                      <source src="videos/" type="video/mp4">
-                      Your browser does not support the video tag.
-                  </video>
-                  <a href="jsons/45075632772.json">Metadata.</a>
-              </div>
-            </div>
-        </div> -->
-
-        
         <div class="section dashed">
-          <h4>Resource</h4>
-          CVSV dataset with CLIP features and raw text can be downloaded from
-          <a href="https://pan.baidu.com/s/1ef3SVS47_MMKBU9OrirABA?pwd=CVSV" >here</a>.
-      </div>
+            <h4>Resource</h4>
+            CVSV dataset with CLIP features and raw text can be downloaded from
+            <a href="https://pan.baidu.com/s/1ef3SVS47_MMKBU9OrirABA?pwd=CVSV">here</a>.
+        </div>
 
 
 
-
-        <!-- <div class="section dashed">
-            <h4>Publication</h4>
-              
-              <div class="container">
+        <div class="section dashed">
+            <!-- 按钮 -->
+            <div class="container">
                 <div class="row">
-                    <div class="title"> <b>Show Me a Video: A Large-Scale Narrated Video Dataset for Coherent Story Illustration</b> </div>
-                    <div class="author"></div><cite>Yu Lu, Feiyue Ni, Haofan Wang, Xiaofeng Guo, Linchao Zhu, Zongxin Yang, Ruihua Song, Lele Cheng, Yi Yang</cite> </div>
-                        
+                    <div class="col">
+                        <button class="btn btn-primary btn-block" data-file="jsons/45075632772.json"
+                            data-video="videos/45075632772.mp4" data-toggle="modal" data-target="#myModal">按钮1</button>
+                    </div>
+
+                    <div class="col">
+                        <button class="btn btn-primary btn-block" data-file="jsons/2.txt"
+                            data-video="videos/45075632772.mp4" data-toggle="modal" data-target="#myModal">按钮1</button>
+                    </div>
+
+                    <div class="col">
+                        <button class="btn btn-primary btn-block" data-file="" data-video="" data-toggle="modal"
+                            data-target="#myModal">按钮1</button>
+                    </div>
+
+                    <div class="col">
+                        <button class="btn btn-primary btn-block" data-file="" data-video="" data-toggle="modal"
+                            data-target="#myModal">按钮1</button>
+                    </div>
                 </div>
-    
             </div>
-        </div> -->
 
+            <!-- 模态框 -->
+            <div class="modal fade" id="myModal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">文件内容</h4>
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- 视频部分 -->
+                            <video id="videoPlayer" class="video-fluid z-depth-1" controls muted>
+                                <source id="videoSource" src="" type="video/mp4">
+                            </video>
 
+                            <!-- 文本部分 -->
+                            <textarea id="file-content" class="form-control" rows="5" readonly></textarea>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">关闭</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+            <script>
+                $(document).ready(function () {
+                    $('#myModal').on('show.bs.modal', function (event) {
+                        const button = $(event.relatedTarget);
+                        const file = button.data('file');
+
+                        $.ajax({
+                            url: file,
+                            dataType: 'text',
+                            success: function (data) {
+                                $('#file-content').val(data);
+                            }
+                        });
+                    }); 
+
+                    $('#myModal').on('show.bs.modal', function (event) {
+                        const button = $(event.relatedTarget);
+                        const video = button.data('video')
+                        const videoSource = $('#videoSource');
+                        const videoPlayer = document.getElementById('videoPlayer');
+                    
+                        videoSource.attr('src', video);
+
+                        // 重新加载视频
+                        videoPlayer.load();
+                        
+                        // 播放视频
+                        videoPlayer.play(); 
+                    });
+
+                });
+            </script>
+        </div>
     </div>
 
 </body>

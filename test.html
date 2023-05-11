@@ -1,0 +1,233 @@
+<div class="section dashed">
+            <h4>Data Preview</h4>
+            <!-- 区域中的按钮 -->
+
+            <div>
+                <div class="row">
+                    <div class="col-md-3", style="float:none;margin:auto;">
+                        <div class="pic-wrapper-1">
+                            <img src="imgs/cover1.jpg"><br>
+                        </div>
+                        <button type="button" class="btn btn-primary btn-block" data-file="jsons/45075632772.json" data-toggle="modal" data-target="#myModal1">按钮1</button>
+                    </div>
+    
+                    <div class="col-md-3", style="float:none;margin:auto;">
+                        <button type="button" class="btn btn-primary btn-block" data-file="1.txt" data-toggle="modal" data-target="#myModal2">Check</button>
+                    </div>
+    
+                    <div class="col-md-3", style="float:none;margin:auto;">
+                        <button type="button" class="btn btn-primary btn-block" data-file="1.txt" data-toggle="modal" data-target="#myModal3">Check</button>
+                    </div>
+    
+                    <div class="col-md-3", style="float:none;margin:auto;">
+                        <button type="button" class="btn btn-primary btn-block" data-file="1.txt" data-toggle="modal" data-target="#myModal4">Check</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 模态框 -->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" id="myModalLabel">模态框标题</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <!-- 视频部分 -->
+                                <video class="video-fluid z-depth-1" controls muted>
+                                    <source src="videos/45075632772.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                            <div class="col-sm-12">
+                                <!-- 文本部分 -->
+                                <pre id="text-container"></pre>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+
+            <script>
+                window.addEventListener('DOMContentLoaded', (event) => {
+                const buttons = document.querySelectorAll('.btn[data-toggle="modal"]');
+                const textContainer = document.getElementById('text-container');
+
+                buttons.forEach((button) => {
+                    button.addEventListener('click', (event) => {
+                    const fileId = event.target.getAttribute('data-file');
+                    const fileName = event.target.textContent;
+
+                    // 使用 fileId 或其他标识符来确定要显示的文件内容
+                    // 这里使用简单的示例来根据按钮上的文本来选择文件内容
+                    let fileContent = '';
+                    switch (fileName) {
+                        case '按钮1':
+                        fileContent = '这是文件1的内容';
+                        break;
+                        case '按钮2':
+                        fileContent = '这是文件2的内容';
+                        break;
+                        case '按钮3':
+                        fileContent = '这是文件3的内容';
+                        break;
+                        case '按钮4':
+                        fileContent = '这是文件4的内容';
+                        break;
+                        default:
+                        fileContent = '';
+                        break;
+                    }
+
+                    textContainer.textContent = fileContent;
+
+                    $('#myModal').modal('show');
+                    });
+                });
+                });
+            </script>
+        </div>
+    </div>
+
+
+
+    <div class="section dashed">
+        <h4>Data Preview</h4>
+        <!-- 区域中的按钮 -->
+
+        <div>
+            <div class="row">
+                <div class="col-md-3", style="float:none;margin:auto;">
+                    <div class="pic-wrapper-1">
+                        <img src="imgs/cover1.jpg"><br>
+                    </div>
+                    <button type="button" class="btn btn-primary btn-block" data-file="jsons/45075632772.json" data-toggle="modal" data-target="#myModal1">按钮1</button>
+                </div>
+
+                <div class="col-md-3", style="float:none;margin:auto;">
+                    <button type="button" class="btn btn-primary btn-block" data-file="1.txt" data-toggle="modal" data-target="#myModal2">Check</button>
+                </div>
+
+                <div class="col-md-3", style="float:none;margin:auto;">
+                    <button type="button" class="btn btn-primary btn-block" data-file="1.txt" data-toggle="modal" data-target="#myModal3">Check</button>
+                </div>
+
+                <div class="col-md-3", style="float:none;margin:auto;">
+                    <button type="button" class="btn btn-primary btn-block" data-file="1.txt" data-toggle="modal" data-target="#myModal4">Check</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 模态框 -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel">模态框标题</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!-- 视频部分 -->
+                            <video class="video-fluid z-depth-1" controls muted>
+                                <source src="videos/45075632772.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </div>
+                        <div class="col-sm-12">
+                            <!-- 文本部分 -->
+                            <pre id="text-container"></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+            const buttons = document.querySelectorAll('.btn[data-toggle="modal"]');
+            const textContainer = document.getElementById('text-container');
+
+            buttons.forEach((button) => {
+                button.addEventListener('click', (event) => {
+                const fileId = event.target.getAttribute('data-file');
+                const fileName = event.target.textContent;
+
+                // 使用 fileId 或其他标识符来确定要显示的文件内容
+                // 这里使用简单的示例来根据按钮上的文本来选择文件内容
+                let fileContent = '';
+                switch (fileName) {
+                    case '按钮1':
+                    fileContent = '这是文件1的内容';
+                    break;
+                    case '按钮2':
+                    fileContent = '这是文件2的内容';
+                    break;
+                    case '按钮3':
+                    fileContent = '这是文件3的内容';
+                    break;
+                    case '按钮4':
+                    fileContent = '这是文件4的内容';
+                    break;
+                    default:
+                    fileContent = '';
+                    break;
+                }
+
+                textContainer.textContent = fileContent;
+
+                $('#myModal').modal('show');
+                });
+            });
+            });
+        </script>
+    </div>
+</div>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#myModal').on('show.bs.modal', function (event) {
+            const button = $(event.relatedTarget);
+            const file = button.data('file');
+            const video = button.data('video')
+            const videoSource = $('#videoSource');
+
+            videoSource.attr('src', video);
+            videoSource.get(0).play();
+            
+            $.ajax({
+                url: file,
+                dataType: 'text',
+                success: function (data) {
+                    $('#file-content').val(data);
+                }
+            });
+
+            
+            
+        });
+
+        $('#myModal').on('hide.bs.modal', function(event) {
+            const videoSource = $('#videoSource');
+            
+            videoSource.get(0).pause();
+            videoSource.attr('src', '');
+          });
+    });
+
+    const video = button.data('video')
+    const videoSource = $('#videoSource');
+
+    videoSource.attr('src', video);
+    videoSource.get(0).play();

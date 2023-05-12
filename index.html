@@ -28,17 +28,6 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
 
-
-    <style>
-        .scrollable-container {
-            max-height: 300px;
-            /* 设置最大高度 */
-            overflow-y: auto;
-            /* 启用垂直滚动条 */
-            /* 可选：添加其他样式，如背景色等 */
-        }
-    </style>
-
 </head>
 
 <body>
@@ -89,7 +78,7 @@
                 <img src="imgs/teaser.jpg">
             </div>
             <div class="abstract justify-text-between">
-                Coherent Video Story Visualization (CVSV) is a large-scale multi-sentence dataset
+                Coherent Video Story Visualization (CVSV) dataset is a large-scale multi-sentence dataset
                 created to enable the research in the Video-based Story Illustration.
                 CVSV dataset contains 85K story-video pairs. Each story-video pair consists of 60 pairs
                 of consistent sentences and coherent clips, where sentences are from narrative stories
@@ -101,7 +90,7 @@
 
 
 
-            <div class="row color-light justify-text-between abs-mg-bot">
+            <!-- <div class="row color-light justify-text-between abs-mg-bot">
 
                 <div class="col-md-6" , style="float:none;margin:auto;">
                     <video class="video-fluid z-depth-1" controls muted>
@@ -110,39 +99,45 @@
                     </video>
                     Example clips and <a href="jsons/45075632772.json">Metadata</a> from CVSV dataset.
                 </div>
-            </div>
+            </div> -->
 
         </div>
 
-
         <div class="section dashed">
-            <h4>Resource</h4>
-            CVSV dataset with CLIP features and raw text can be downloaded from
-            <a href="https://pan.baidu.com/s/1ef3SVS47_MMKBU9OrirABA?pwd=CVSV">here</a>.
-        </div>
+            <h4>Data Preview</h4>
 
-
-
-        <div class="section dashed">
             <!-- 按钮 -->
             <div class="container">
                 <div class="row">
                     <div class="col">
+                        <div class="pic-wrapper-1">
+                            <img src="imgs/cover1.jpg"><br>
+                        </div>
                         <button class="btn btn-primary btn-block" data-file="jsons/45075632772.json"
-                            data-video="videos/45075632772.mp4" data-toggle="modal" data-target="#myModal">按钮1</button>
+                            data-video="videos/45075632772.mp4" data-toggle="modal" data-target="#myModal">Demo
+                            1</button>
                     </div>
 
                     <div class="col">
+                        <div class="pic-wrapper-1">
+                            <img src="imgs/cover1.jpg"><br>
+                        </div>
                         <button class="btn btn-primary btn-block" data-file="jsons/2.txt"
                             data-video="videos/45075632772.mp4" data-toggle="modal" data-target="#myModal">按钮1</button>
                     </div>
 
                     <div class="col">
+                        <div class="pic-wrapper-1">
+                            <img src="imgs/cover1.jpg"><br>
+                        </div>
                         <button class="btn btn-primary btn-block" data-file="" data-video="" data-toggle="modal"
                             data-target="#myModal">按钮1</button>
                     </div>
 
                     <div class="col">
+                        <div class="pic-wrapper-1">
+                            <img src="imgs/cover1.jpg"><br>
+                        </div>
                         <button class="btn btn-primary btn-block" data-file="" data-video="" data-toggle="modal"
                             data-target="#myModal">按钮1</button>
                     </div>
@@ -151,20 +146,22 @@
 
             <!-- 模态框 -->
             <div class="modal fade" id="myModal">
-                <div class="modal-dialog">
+                <div class="modal-dialog modal-lg">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h4 class="modal-title">文件内容</h4>
+                            <h4 class="modal-title">Video & Caption</h4>
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
                         </div>
                         <div class="modal-body">
-                            <!-- 视频部分 -->
-                            <video id="videoPlayer" class="video-fluid z-depth-1" controls muted>
-                                <source id="videoSource" src="" type="video/mp4">
-                            </video>
+                            <div class='col-md-8 mx-auto'>
+                                <!-- 视频部分 -->
+                                <video id="videoPlayer" class="video-fluid z-depth-1" controls muted>
+                                    <source id="videoSource" src="" type="video/mp4">
+                                </video>
+                            </div>
 
                             <!-- 文本部分 -->
-                            <textarea id="file-content" class="form-control" rows="5" readonly></textarea>
+                            <textarea id="file-content" class="form-control" rows="10" readonly></textarea>
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">关闭</button>
@@ -188,25 +185,31 @@
                                 $('#file-content').val(data);
                             }
                         });
-                    }); 
+                    });
 
                     $('#myModal').on('show.bs.modal', function (event) {
                         const button = $(event.relatedTarget);
                         const video = button.data('video')
                         const videoSource = $('#videoSource');
                         const videoPlayer = document.getElementById('videoPlayer');
-                    
+
                         videoSource.attr('src', video);
 
                         // 重新加载视频
                         videoPlayer.load();
-                        
+
                         // 播放视频
-                        videoPlayer.play(); 
+                        videoPlayer.play();
                     });
 
                 });
             </script>
+        </div>
+
+        <div class="section dashed">
+            <h4>Resource</h4>
+            CVSV dataset with CLIP features and raw text can be downloaded from
+            <a href="https://pan.baidu.com/s/1ef3SVS47_MMKBU9OrirABA?pwd=CVSV">here</a>.
         </div>
     </div>
 

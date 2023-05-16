@@ -1,71 +1,69 @@
-0.0 ---> 5.4: after intercepting nerve gas being sold the Chechen terrorists in Minsk,
-5.4 ---> 8.9: IMF agent Ethan Hunt is determined to prove the existence of the syndicate,
-8.9 ---> 11.3: a criminal consortium the CIA does not believe exists.
-11.3 ---> 15.0: Hunt is captured by the syndicate at a record shop in London,
-15.0 ---> 19.0: while their leader a blond man in glasses kills the IMF agent station there.
-19.0 ---> 23.4: Hunt escapes a torture chamber led by syndicate member Janik bone doctor Vinter,
-23.4 ---> 28.1: with the help of disavowed MI6 agent and syndicate operative Ilsa Faust.
-28.1 ---> 31.0: in Washington DC, CIA director Alan Hunley
-31.0 ---> 35.6: have IMF field operations director William Brandt testified before Senate committee.
-35.6 ---> 39.7: the IMF, currently without a secretary in charge, is controversial
-39.7 ---> 42.5: because of his destructive methods and various misconduct.
-42.5 ---> 43.9: Hunley succeeds in having the IMF disbanded,
-43.9 ---> 46.9: and absorbed into the CIA.
+
+0.0 ---> 5.4: After intercepting nerve gas being sold by Chechen terrorists in Minsk, an operation takes place.
+5.4 ---> 8.9: IMF agent Ethan Hunt is determined to prove the existence of the syndicate, despite the CIA's skepticism.
+8.9 ---> 11.3: The CIA does not believe the syndicate, a criminal consortium, actually exists.
+11.3 ---> 15.0: Hunt finds himself captured by the syndicate at a record shop in London.
+15.0 ---> 19.0: At the hands of the syndicate's leader, a blond man in glasses, the IMF agent stationed there is killed.
+19.0 ---> 23.4: Hunt manages to escape from a torture chamber orchestrated by syndicate member Janik, a bone doctor named Vinter
+23.4 ---> 28.1: With the assistance of Ilsa Faust, a disavowed MI6 agent and operative within the syndicate, Hunt breaks free.
+28.1 ---> 31.0: In Washington DC, CIA director Alan Hunley takes action.
+31.0 ---> 35.6: William Brandt, the IMF field operations director, is called to testify before a Senate committee.
+35.6 ---> 39.7: The IMF, currently lacking a secretary in charge, faces controversy.
+39.7 ---> 42.5: The controversy arises due to destructive methods and various misconduct associated with the IMF.
+42.5 ---> 46.9: Hunley succeeds in having the IMF disbanded and absorbed into the CIA.
 46.9 ---> 50.3: Brandt knowing Hundley will try to capture Hunt warns him to stay undercover.
-50.3 ---> 54.7: Cut off from the IMF, Hunt follows his only lead, the man in the glasses,
-54.7 ---> 58.1: who later identified as former mi6 agent Solomon Lane.
-58.1 ---> 62.6: six months later, Hunt, still fugitive living in Paris,
-62.6 ---> 64.6: luring a CIA team to a decoy safehouse in Havana,
-64.6 ---> 67.0: and lists former colleague Benji Dunn to attend an opera in Vienna,
-69.0 ---> 72.2: predicting that an assassination attempt will be made on the Australian Chancellor at the performance,
-74.0 ---> 75.9: and that Lane will also be there.
-75.9 ---> 77.9: the two stopped three snipers including Faust,
-77.9 ---> 79.6: but the Chancellor is killed by a car bomb
-79.6 ---> 82.0: and Lane is still not found.
-82.0 ---> 84.1: Faust drops hints of Lane's plan to a Hunt before leaving.
-84.1 ---> 86.6: Dunn stays with Hunt instead of reporting back to the CIA,
-88.5 ---> 89.8: despite knowing his action amounts to treason.
+50.3 ---> 54.7: Cut off from the IMF, Hunt follows his only lead, the man in the glasses.
+54.7 ---> 58.1: This man later identified as former mi6 agent Solomon Lane.
+58.1 ---> 62.6: Six months pass, and Hunt, still a fugitive, resides in Paris.
+62.6 ---> 64.6: He sets up a decoy safehouse in Havana to lure a CIA team.
+64.6 ---> 67.0: he enlists the help of his former colleague Benji Dunn to attend an opera in Vienna.
+69.0 ---> 72.2: Hunt predicts that the Australian Chancellor will be targeted for assassination during the performance.
+74.0 ---> 75.9: Furthermore, Hunt anticipates that Lane will also be present at the opera.
+75.9 ---> 77.9: The two of them successfully stopped three snipers, including Faust.
+77.9 ---> 79.6: Unfortunately, the Chancellor is killed by a car bomb.
+79.6 ---> 82.0: Lane, the main antagonist, is still at large and hasn't been found.
+82.0 ---> 84.1: Before departing, Faust drops hints about Lane's plan to Hunt.
+84.1 ---> 86.6: Instead of reporting back to the CIA, Dunn chooses to stay with Hunt.
+88.5 ---> 89.8: Dunn is fully aware that his actions can be considered treasonous.
 89.8 ---> 95.6: Hunt blamed the Chancellor's death is pursued by the CIA's special Activities Division.
 95.6 ---> 100.2: Brandt contacts Luther stickell to find Hunt before the CIA does.
-100.2 ---> 102.6: Stickle tracks Hunt done and Faust to Casablanca,
-102.6 ---> 105.8: where they acquire a secret file from the secure building.
-105.8 ---> 108.9: Faust flees with the data evading both Hunt and syndicate members.
-108.9 ---> 110.7: although Hunt kills the pursuing agents.
-110.7 ---> 113.7: Dunn reveals he copied the data onto a second USB Drive
-113.7 ---> 116.7: as stinkle and Brandt catch up to them.
-116.7 ---> 120.8: Faust returns to London attempts to use the file to quit her mission to infiltrate the syndicate.
-120.8 ---> 125.2: her mi6 handler Atlee compels her to continue,
-125.2 ---> 127.3: whilst discreetly wiping her drive.
-127.3 ---> 130.4: Meanwhile Ethan learns that the data is an encrypted British government red box,
-130.4 ---> 134.1: that requires the Prime Minister's biometrics to unlock it/
-134.1 ---> 136.3: lane's men abducted and used Dunn and Faust
-136.3 ---> 137.9: to blackmail Hunt into decrypting the data
-137.9 ---> 140.2: and delivering it to them.
-140.2 ---> 142.0: Hunt agrees the ultimatum despite protests from Brandt.
-142.0 ---> 144.0: as part of Hunt's plan,
-144.0 ---> 145.9: Brandt reveals the location to Hundley.
-145.9 ---> 147.2: at a London charity auction,
-147.2 ---> 150.9: Hundley, Brandt and Atlee take the PM to a secure room to protect him from Hunt.
-150.9 ---> 155.1: Brandt has the PM confirmed the existence of the syndicate,
-155.1 ---> 157.9: a project proposed by Atlee to perform missions without oversight,
-157.9 ---> 163.9: effectively making the PM judge jury and executioner, with zero accountability.
-163.9 ---> 166.2: Atlee reveals himself as Hunt in a mask.
-166.2 ---> 169.8: when the real Atlee arrives, Hunt forces him to admit that he began The Syndicate without permission.
-169.8 ---> 174.6: and that he has been covering up its existence after lane hijacked the project,
-174.6 ---> 176.2: and went rogue, turning the syndicate against him and MI6
-176.2 ---> 179.2: with the PM's biometrics,
-179.2 ---> 184.8: Stickle discovers the file contains access to two point four billion British pounds in various bank accounts,
-184.8 ---> 187.0: which would allow the syndicate to continue their operations unnoticed.
+100.2 ---> 102.6: Stickle tracks Hunt and Faust to Casablanca, where they locate a secure building.
+102.6 ---> 105.8: Inside the building, they successfully acquire a secret file.
+105.8 ---> 108.9: Faust manages to escape with the data, eluding both Hunt and syndicate members.
+108.9 ---> 110.7: During the pursuit, Hunt eliminates the agents following them.
+110.7 ---> 113.7: Dunn reveals that he made a copy of the data on a second USB drive.
+113.7 ---> 116.7: Then Stickle and Brandt catch up to them.
+116.7 ---> 120.8: Faust returns to London and contemplates using the file to abandon her mission of infiltrating the syndicate.
+120.8 ---> 127.3: However, her MI6 handler, Atlee, pressures her to continue while discreetly wiping her drive.
+127.3 ---> 130.4: Meanwhile, Ethan learns that the data is an encrypted British government red box.
+130.4 ---> 134.1: This box requires the Prime Minister's biometrics to unlock it.
+134.1 ---> 136.3: Lane's men abduct Dunn and Faust, using them for their own purposes.
+136.3 ---> 137.9: They blackmail Hunt into decrypting the data.
+137.9 ---> 140.2: The demand is for Hunt to deliver the decrypted data to them.
+140.2 ---> 142.0: Despite protests from Brandt, Hunt agrees to the ultimatum.
+142.0 ---> 145.9: As part of Hunt's plan, Brandt reveals the location to Hunley.
+145.9 ---> 147.2: During a London charity auction, a particular event takes place.
+147.2 ---> 150.9: Hundley, Brandt, and Atlee escort the Prime Minister to a secure room to ensure his safety from Hunt.
+150.9 ---> 155.1: Brandt persuades the Prime Minister to acknowledge the existence of the syndicate.
+155.1 ---> 157.9: Atlee's project, proposed to perform missions without oversight, is confirmed by the Prime Minister.
+157.9 ---> 163.9: This project effectively grants the Prime Minister the role of judge, jury, and executioner, with no accountability.
+163.9 ---> 166.2: Atlee, who is revealed to be wearing a mask, discloses his true identity as Hunt.
+166.2 ---> 169.8: When the real Atlee arrives, Hunt forces him to admit that he began The Syndicate without permission.
+169.8 ---> 174.6: Atlee confesses that he has been covering up the syndicate's existence since Lane took control of the project and turned against both Atlee and MI6.
+174.6 ---> 176.2: Lane's actions led to the syndicate being used against Atlee and MI6.
+176.2 ---> 179.2: Using the Prime Minister's biometrics, Lane gained control.
+179.2 ---> 184.8: Stickle discovers the file contains access to two point four billion British pounds in various bank accounts.
+184.8 ---> 187.0: This would allow the syndicate to continue their operations unnoticed.
 187.0 ---> 189.1: Hunt promptly destroys the data.
-189.1 ---> 191.1: at the meeting outside the Tower of London,
-191.1 ---> 193.1: he tells lane he memorized the data,
-193.1 ---> 195.1: and offers himself in exchange for Dunn and Faust.
-195.1 ---> 198.3: Dunn escapes after the bomb on him is disarmed,
-198.3 ---> 200.5: while Ethan and Faust are chased through the streets of London by lanes Men.
-200.5 ---> 203.3: Faust kills vinta in a knife fight,
-203.3 ---> 207.0: while Ethan confronts Lane and lures him into a sealed bulletproof glass cell,
-207.0 ---> 209.6: where he is gassed unconscious and taken into custody.
-209.6 ---> 213.9: Hundley having witnessed an IMF operations success firsthand,
-213.9 ---> 215.2: returns with Brad to the Senate committee,
-215.2 ---> 219.4: and convinces them to restore the IMF by covering for Hunt and his team after the
+189.1 ---> 191.1: At the meeting outside the Tower of London.
+191.1 ---> 193.1: He tells lane he memorized the data.
+193.1 ---> 195.1: He then offers himself in exchange for Dunn and Faust.
+195.1 ---> 198.3: Dunn escapes after the bomb on him is disarmed.
+198.3 ---> 200.5: Ethan and Faust are chased through the streets of London by lanes Men.
+200.5 ---> 203.3: Faust kills Vinta in a knife fight.
+203.3 ---> 207.0: Ethan confronts Lane and lures him into a sealed bulletproof glass cell.
+207.0 ---> 209.6: There Lane is gassed unconscious and taken into custody.
+209.6 ---> 213.9: Hundley having witnessed an IMF operations success firsthand.
+213.9 ---> 215.2: He returns with Brad to the Senate committee.
+215.2 ---> 219.4: And then Hundley convinces them to restore the IMF by covering for Hunt and his team.
 219.4 ---> 221.8: After meeting, Brandt congratulate Hundley who is now the new IMF secretary.

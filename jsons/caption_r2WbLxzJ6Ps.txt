@@ -1,68 +1,66 @@
-0.0 ---> 2.5: Reuben Tishkoff is coerced by thugs
-2.5 ---> 4.6: employed by Willy Bank, his former business partner,
-4.6 ---> 8.1: into signing over his stake in ownership rights of the new Hotel Casino
-8.1 ---> 9.8: that were building on the Las Vegas Strip.
-9.8 ---> 11.7: Reuben suffers a heart attack,
-11.7 ---> 14.0: and becomes bedridden.
-14.0 ---> 16.1: Danny ocean offers Bank a chance to set things right.
-16.1 ---> 18.1: given his long history in Las Vegas
+0.0 ---> 2.5: Reuben Tishkoff finds himself coerced by thugs hired by his former business partner, Willy Bank.
+2.5 ---> 4.6: These thugs force Reuben to sign over his stake in the ownership rights of the new Hotel Casino.
+4.6 ---> 8.1: The hotel casino is being built on the iconic Las Vegas Strip.
+8.1 ---> 9.8: Reuben, unfortunately, suffers a heart attack and is confined to his bed.
+9.8 ---> 14.0: Reuben's health condition worsens as he remains bedridden due to the heart attack.
+14.0 ---> 16.1: Danny Ocean offers Bank a chance to set things right.
+16.1 ---> 18.1: Given his long history in Las Vegas
 18.1 ---> 19.5: and the fact that he shook hands with Sinatra,
 19.5 ---> 25.5: Bank refuses and breaks his deal with Reuben.
-25.5 ---> 29.2: to avenge Reuben, ocean gathers his partners in crime and plans to ruin Bank.
-29.2 ---> 33.9: on the opening night of the hotel, they develop a two-fold plan to occur on the casinos opening night.
-33.9 ---> 39.5: one is to prevent the bank from winning the prestigious Five Diamond Award.
-39.5 ---> 43.5: Saul Blum is designated to stand in this the anonymous diamond reviewer
-43.5 ---> 46.7: while the real reviewer will be treated horribly during his stay by ocean and his associates.
-46.7 ---> 50.2: the second part of the plan is to rig the casino slot machines,
-50.2 ---> 53.6: forcing them to pay out more than five hundred million dollars in winnings
-53.6 ---> 56.9: by law Bank would be required to cede control of the casino to the gambling board
-56.9 ---> 60.8: while they can implement various rigging mechanisms into the casino
-60.8 ---> 63.6: ocean and his crew know that there would be easily stopped by the Greco player tracker
-63.6 ---> 65.1: a state-of-the-art computer system
-65.1 ---> 68.7: that continuously monitors the gamblers biometric responses,
-68.7 ---> 70.1: and predicts when cheating is happening.
-70.1 ---> 76.0: instead they plan to use a magnetron disguised as a new cell phone as a gift to bank to disrupt the Greco.
-76.0 ---> 78.6: they also obtain the drilling machine used to borrow the Channel Tunnel,
-78.6 ---> 81.3: to simulate an earthquake under the casino
+25.5 ---> 29.2: To avenge Reuben, Ocean gathers his partners in crime and plans to ruin Bank.
+29.2 ---> 33.9: On the opening night of the hotel, they develop a two-fold plan to occur on the casinos opening night.
+33.9 ---> 39.5: One is to prevent the Bank from winning the prestigious Five Diamond Award.
+39.5 ---> 43.5: Saul Blum is designated to stand in this the anonymous diamond reviewer.
+43.5 ---> 46.7: Meanwhile, the real reviewer will be treated horribly during his stay by Ocean and his associates.
+46.7 ---> 50.2: The second part of the plan is to rig the casino slot machines.
+50.2 ---> 53.6: This manipulation will result in forcing them to pay out more than five hundred million dollars in winnings.
+53.6 ---> 56.9: By law Bank would be required to cede control of the casino to the gambling board.
+56.9 ---> 63.6: Ocean and his crew are aware that implementing various rigging mechanisms in the casino would be easily detected by the Greco player tracker.
+63.6 ---> 65.1: The Greco player tracker is a state-of-the-art computer system.
+65.1 ---> 68.7: It continuously monitors the biometric responses of the gamblers.
+68.7 ---> 70.1: Additionally, it can predict when cheating is occurring.
+70.1 ---> 76.0: Their plan involves utilizing a magnetron disguised as a new cell phone, which will disrupt the Greco Bank.
+76.0 ---> 78.6: They also obtain the drilling machine.
+78.6 ---> 81.3: The machine will be used to simulate an earthquake beneath the casino.
 81.3 ---> 85.6: assuring that Bank's safety protocols to evacuate the casino in case of another earthquake.
-85.6 ---> 87.4: their plan on opening night is to have Bank inadvertently disrupt Greco,
-87.1 ---> 91.4: initiate their rigged machines and dealers on their payroll
-91.4 ---> 93.2: and then simulate the earthquake to force the evacuation,
-94.2 ---> 96.7: and have players leave with their winnings.
-96.7 ---> 98.6: as opening night draws near, the drill breaks down.
-98.6 ---> 100.6: ocean is forced to turn to Terry Benedict,
-100.6 ---> 104.9: who motion had slighted before for funds to buy replacement.
-104.9 ---> 106.9: Benedict, who also seeks retribution against Bank,
-106.9 ---> 109.8: offers the funds for a portion of his share of the take,
-109.8 ---> 112.3: but demands that ocean also steal the four sets of diamonds Bank had bought for his wife.
-113.7 ---> 115.4: after winning each of the previous Diamond Awards,
-115.4 ---> 120.6: these are valued over 250 million dollars and secured in the case at the top of the Bank.
-120.6 ---> 122.0: ocean has Linus Caldwell get romantically close to banks assist Abagail Sponder
-124.0 ---> 126.5: to gain access to the case
-126.5 ---> 130.3: secretly Benedict contracts mastered the Francois the night fox Toulour
-130.3 ---> 133.2: to intercept the diamonds after ocean steals them.
-133.2 ---> 135.8: ocean institute's the final part of the plan on opening night
-135.8 ---> 137.9: is having FBI agents on his pay arrive at the hotel and publicly arrest Livingston Dell
-139.4 ---> 143.3: on suspicions of rigging the cards shuffling machine,
-143.3 ---> 145.8: allowing them to be replaced with actual rigged ones under Banks nose.
-145.8 ---> 149.9: another FBI agent arrests Linus after he switches the diamonds with the fakes.
-149.9 ---> 153.6: the agent takes Linus away but reveals himself to be his father Robert Caldwell
-153.6 ---> 155.0: also in ocean's plan.
-155.0 ---> 156.8: they tried to evacuate from the roof
-156.8 ---> 159.6: but are intercepted by Toulour who takes the diamonds.
-159.6 ---> 162.0: however ocean had anticipated this,
-162.0 ---> 163.8: and Linus and his father escaped in a helicopter piloted by basher
-163.8 ---> 167.2: taking the real diamonds with them.
-167.2 ---> 169.1: the remainder of oceans plan goes as expected
-169.1 ---> 170.3: and as they triggered the earthquake,
-170.3 ---> 173.6: the players evacuate with millions of dollars of winnings.
-173.6 ---> 175.3: ocean approaches devastated Bank
-175.3 ---> 177.1: and tells him they did everything for Rueben
-177.1 ---> 178.8: Ocean also reminds Bank that he cannot go to the police due to banks past illegal activities
-180.4 ---> 181.8: and that all of bank's associates favor ocean over him.
-183.7 ---> 188.1: with their share of the winnings, oceans crew buy property on the strip for Reuben to build his own casino.
-188.1 ---> 193.4: because of his betrayal, ocean donates benedict seventy-two million dollar, portion of the take, to charity in Benedict's name
-193.4 ---> 196.4: forcing him to admit his philanthropy on broadcast television.
-196.4 ---> 199.5: as ocean rusty and linus prepared to head off at the airport,
-199.5 ---> 203.9: rusty triggers one of the rigged machines there to allow the real diamond reviewer to win eleven million dollars
-203.9 ---> 208.2: as a way to compensate him for how they treated him.
+85.6 ---> 87.4: On the opening night, their strategy revolves around causing Bank to unwittingly disrupt Greco.
+87.1 ---> 91.4: They activate rigged machines and have dealers on their payroll initiate their scheme.
+91.4 ---> 93.2: Subsequently, they will simulate an earthquake, compelling the evacuation of the casino.
+94.2 ---> 96.7: This will allow the players to depart with their winnings.
+96.7 ---> 98.6: As opening night draws near, the drill breaks down.
+98.6 ---> 100.6: Ocean is forced to turn to Terry Benedict.
+100.6 ---> 104.9: Previously, Ocean had slighted Benedict, but now he needs funds to replace the broken drill.
+104.9 ---> 106.9: Benedict also seeks retribution against Bank.
+106.9 ---> 109.8: And he offers the funds for a portion of his share of the take.
+109.8 ---> 112.3: But he demands that Ocean also steal the four sets of diamonds Bank had bought for his wife.
+113.7 ---> 115.4: After winning each of the previous Diamond Awards, the total value of which exceeds 250 million dollars,
+115.4 ---> 120.6: These awards are securely stored in the case at the top of the Bank.
+120.6 ---> 122.0: Linus Caldwell, a member of Ocean's team, forms a romantic connection with Banks' assistant, Abagail Sponder.
+124.0 ---> 126.5: This connection is established with the intention of gaining access to the case.
+126.5 ---> 130.3: Secretly Benedict contracts mastered the Francois the night fox Toulour.
+130.3 ---> 133.2: The Night Fox's objective is to intercept the diamonds after Ocean steals them.
+133.2 ---> 135.8: The final part of the plan at the Ocean institute's opening night is in motion.
+135.8 ---> 137.9: FBI agents, who are on the pay of the mastermind, arrive at the hotel and publicly arrest Livingston Dell.
+139.4 ---> 143.3: Livingston Dell is suspected of manipulating the cards shuffling machine.
+143.3 ---> 145.8: This allows them to be switched with rigged ones without Banks noticing.
+145.8 ---> 149.9: Another FBI agent arrests Linus after he switches the diamonds with the fakes.
+149.9 ---> 153.6: The agent takes Linus away but reveals himself to be his father Robert Caldwell.
+153.6 ---> 155.0: This is also in Ocean's plan.
+155.0 ---> 156.8: They tried to evacuate from the roof.
+156.8 ---> 159.6: But they are intercepted by Toulour who takes the diamonds.
+159.6 ---> 162.0: However Ocean had anticipated this.
+162.0 ---> 163.8: Linus and his father escaped in a helicopter piloted by basher.
+163.8 ---> 167.2: They took the genuine diamonds with them, evading Toulour's grasp.
+167.2 ---> 169.1: The remainder of Ocean's plan goes as expected.
+169.1 ---> 170.3: They triggered the earthquake,
+170.3 ---> 173.6: and the players evacuate with millions of dollars of winnings.
+173.6 ---> 175.3: Ocean approaches devastated Bank.
+175.3 ---> 177.1: Ocean tells him they did everything for Rueben.
+177.1 ---> 178.8: Ocean also reminds Bank that he cannot go to the police due to banks past illegal activities.
+180.4 ---> 181.8: He also said that all of Bank's associates favor Ocean over him.
+183.7 ---> 188.1: With their share of the winnings, oceans crew buy property on the strip for Reuben to build his own casino.
+188.1 ---> 193.4: Because of his betrayal, Ocean donates Benedict seventy-two million dollar, portion of the take, to charity in Benedict's name.
+193.4 ---> 196.4: This forcing him to admit his philanthropy on broadcast television.
+196.4 ---> 199.5: As Ocean rusty and Linus prepared to head off at the airport,
+199.5 ---> 203.9: Rusty triggers one of the rigged machines there to allow the real diamond reviewer to win eleven million dollars.
+203.9 ---> 208.2: This act serves as a compensate him for how they treated him.

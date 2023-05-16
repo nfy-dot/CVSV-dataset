@@ -1,69 +1,65 @@
-0.0 ---> 3.5: a cia agent, only known as the protagonist,
-3.5 ---> 7.8: participates in an undercover operation at a kiev opera house.
-7.8 ---> 11.5: his life is saved by a masked soldier with a red trinket
-11.5 ---> 14.3: who unfires a bullet through a gunman.
-14.3 ---> 17.6: after seizing an artifact, the protagonist is captured by mercenaries.
-17.6 ---> 21.6: he endures torture before consuming cyanide.
-21.6 ---> 24.7: he awakens to learn the cyanide was a test of loyalty,
-24.7 ---> 26.6: his team has been killed and the artifact lost.
-28.0 ---> 31.1: the protagonist is recruited by an organization called tenet.
-31.1 ---> 36.7: a scientist shows him bullets with inverted entropy in which they move backwards through time.
-36.7 ---> 41.8: She believes they are manufactured in the future and a weapon exists that can wipe out the past,
-41.8 ---> 48.7: aided by a contact named neil the protagonist traces the bullets to arms dealer priya singh in mumbai.
-48.7 ---> 52.3: he discovers she is a member of tenet.
-52.3 ---> 56.0: her cartridges were purchased and inverted by russian oligarch, andrei sator.
-56.0 ---> 60.2: the protagonist approaches sator's estranged wife Kat，
-60.2 ---> 66.3: an art appraiser who authenticated a goya drawing forged by a man named arappo
-66.3 ---> 68.7: which sator purchased from him.
-68.7 ---> 70.5: saitor uses the drawing to blackmail her
-70.5 ---> 72.1: and keep her under control.
-72.1 ---> 77.2: protagonist plots to steal the drawing with neil from a facility at the oslo airport.
-77.2 ---> 82.2: there they find a machine a turnstile and fend off two masked men.
-82.2 ---> 86.0: priya explains the turnstile can invert the entropy of objects and people,
-86.0 ---> 89.6: and the masked men were the same person.
-89.6 ---> 93.5: in italy, Kat introduces the protagonist to sator,
-93.5 ---> 95.7: but learned the drawing is intact.
-95.7 ---> 96.8: the three go boating,
-96.8 ---> 98.9: where cat attempts to drown saitor,
-98.9 ---> 100.5: but the protagonist saves him.
-100.5 ---> 102.9: he offers to help saito retrieve a case
-102.9 ---> 105.2: which he says contains plutonium.
-105.2 ---> 108.7: in tallinn, estonia, the protagonist and nell
-108.7 ---> 111.0: ambush a convoy and steal the case
-111.0 ---> 112.2: which contains the artifact lost in kiev.
-112.2 ---> 116.7: they are ambushed by an inverted saitor who holds Kat hostage.
-116.7 ---> 121.4: the protagonist gives sator an empty case, and he retreats.
-121.4 ---> 123.5: the protagonist saves Kat,
-123.5 ---> 128.2: but is captured and taken to saitor's warehouse which has an inversion turnstile.
-128.2 ---> 131.7: the inverted sator shoots Kat with an inverted round,
-131.7 ---> 135.1: while the normal sator demands the location of the artifact
-135.1 ---> 137.7: the protagonist gives him false information.
-137.7 ---> 142.8: tenet operatives led by ives rescues the protagonist while sator escapes.
-142.8 ---> 148.3: the group take Kat through saitor's turnstile to invert her reversing the effect of the round.
-148.3 ---> 151.7: The protagonist returns to the ambush site and chases sator.
-151.7 ---> 153.8: his vehicle is overturned and set on fire.
-153.8 ---> 158.8: the protagonist is saved and neil reveals he is a member of tenet
-158.8 ---> 163.6: the protagonist and neil travel back in time to the airport in oslo.
-163.6 ---> 168.0: the protagonist fights his past self and enters the turnstile and reverts.
-168.0 ---> 171.0: followed by neil and Kat, priya tells them,
-171.0 ---> 175.0: artifacts are part of an algorithm which sator is assembling,
-175.0 ---> 177.1: capable of catastrophically inverting entropy.
-178.0 ---> 181.4: Kat reveals sator is dying from pancreatic cancer
-181.4 ---> 184.8: he will trigger the algorithm believing the world should die with him.
-184.8 ---> 187.5: Kat believes sator will kill himself during their vacation.
-187.5 ---> 193.4: the protagonist, neil, Kat and the tenant forces invert back to that day,
-193.4 ---> 197.4: so Kat can delay sator's death while tenet secures the algorithm.
-197.4 ---> 199.4: tenet tracks the algorithm to sator's
-199.4 ---> 201.5: hometown in northern siberia.
-201.5 ---> 205.9: in a temporal pincer movement red team troops move forward in time,
-205.9 ---> 207.9: while the blue team troops move backward.
-207.9 ---> 213.6: the protagonist and ives are aided by a masked corpse of a blue team trooper with a red trinket on his backpack.
-213.6 ---> 215.8: after seeing him dying in reverse.
-216.8 ---> 219.8: in vietnam, cat boards sator's yacht and kills him.
-220.6 ---> 222.8: as the protagonist and ives secure the algorithm,
-222.8 ---> 228.6: the protagonist neil and ives break up the algorithm and part ways.
-228.6 ---> 232.6: the protagonist notices the trinket on neil's rucksack.
-232.6 ---> 236.1: neil reveals he was recruited by the protagonist in the future,
-236.1 ---> 237.9: and this mission is the end of a long friendship.
-237.9 ---> 241.2: priya attempts to have Kat assassinated,
-241.2 ---> 250.2: but is killed by the protagonist who reveals he is the mastermind behind tenet.
+0.0 ---> 7.8: A CIA agent, known only as the protagonist, takes part in an undercover operation at a Kiev opera house.
+7.8 ---> 11.5: During the operation, his life is saved by a masked soldier with a red trinket.
+11.5 ---> 14.3: The soldier fires a bullet through a gunman.
+14.3 ---> 17.6: After seizing an artifact, the protagonist is captured by mercenaries.
+17.6 ---> 21.6: He endures torture before consuming cyanide.
+21.6 ---> 24.7: He awakens to learn the cyanide was a test of loyalty.
+24.7 ---> 26.6: And his team has been killed and the artifact lost.
+28.0 ---> 31.1: The protagonist is recruited by an organization called tenet.
+31.1 ---> 36.7: A scientist shows him bullets with inverted entropy in which they move backwards through time.
+36.7 ---> 41.8: She believes they are manufactured in the future and a weapon exists that can wipe out the past.
+41.8 ---> 48.7: Assisted by a contact named Neil, the protagonist tracks the bullets to arms dealer Priya Singh in Mumbai.
+48.7 ---> 52.3: He discovers she is a member of Tenet.
+52.3 ---> 56.0: Her cartridges were purchased and inverted by russian oligarch, Andrei Sator.
+56.0 ---> 60.2: The protagonist approaches Sator's estranged wife Kat.
+60.2 ---> 66.3: Kat is an art appraiser who authenticated a Goya drawing forged by a man named Arappo.
+66.3 ---> 70.5: Sator purchased from him and then uses the drawing to blackmail her.
+70.5 ---> 72.1: By this Sator keep Kat under control.
+72.1 ---> 77.2: The protagonist plots to steal the drawing with Neil from a facility at the Oslo Airport.
+77.2 ---> 82.2: There they find a machine, a turnstile and fend off two masked men.
+82.2 ---> 86.0: Priya explains the turnstile can invert the entropy of objects and people.
+86.0 ---> 89.6: She also reveals that the masked men were the same person.
+89.6 ---> 93.5: In italy, Kat introduces the protagonist to Sator,
+93.5 ---> 95.7: But she learned the drawing is intact.
+95.7 ---> 96.8: The three then go boating.
+96.8 ---> 98.9: During this time, Kat attempts to drown Sator.
+98.9 ---> 100.5: However, the protagonist intervenes and saves Sator from drowning.
+100.5 ---> 102.9: He offers to help Sator retrieve a case.
+102.9 ---> 105.2: Sator says this case contains plutonium.
+105.2 ---> 110.0: In Tallinn, Estonia, the protagonist and Neil ambush a convoy and steal the case.
+111.0 ---> 112.2: The case they acquire contains the artifact that was previously lost in Kiev.
+112.2 ---> 116.7: They then are ambushed by an inverted Sator who holds Kat hostage.
+116.7 ---> 121.4: The protagonist gives Sator an empty case, and he retreats.
+121.4 ---> 123.5: The protagonist manages to save Kat.
+123.5 ---> 128.2: However, he is subsequently captured and taken to Sator's warehouse, which contains an inversion turnstile.
+128.2 ---> 131.7: The inverted Sator shoots Kat with an inverted round.
+131.7 ---> 135.1: Meanwhile, the non-inverted Sator demands to know the location of the artifact.
+135.1 ---> 137.7: The protagonist deliberately provides false information to mislead Sator.
+137.7 ---> 142.8: Under the leadership of Ives, Tenet operatives come to the rescue, saving the protagonist while Sator manages to escape.
+142.8 ---> 148.3: The group takes Kat through Sator's turnstile to reverse the effects of the inverted round.
+148.3 ---> 151.7: Afterward, the protagonist returns to the ambush site and pursues Sator.
+151.7 ---> 153.8: Their vehicle overturns and catches fire during the chase.
+153.8 ---> 158.8: The protagonist is saved and Neil reveals he is a member of Tenet.
+158.8 ---> 163.6: The protagonist and Neil travel back in time to the airport in Oslo.
+163.6 ---> 168.0: The protagonist fights his past self and enters the turnstile and reverts.
+168.0 ---> 171.0: Followed by Neil and Kat, Priya tells them important information.
+171.0 ---> 175.0: Priya informs them that artifacts are components of an algorithm that Sator is assembling.
+175.0 ---> 177.1: This algorithm possesses the capability to catastrophically invert entropy.
+178.0 ---> 181.4: Kat reveals Sator is dying from pancreatic cancer.
+181.4 ---> 184.8: Sator intends to trigger the algorithm, believing that the world should perish along with him.
+184.8 ---> 187.5: Kat suspects that Sator plans to end his own life during their vacation.
+187.5 ---> 193.4: To prevent this, the protagonist, Neil, Kat, and Tenet forces invert back to that specific day.
+193.4 ---> 197.4: So Kat can delay Sator's death while Tenet secures the algorithm.
+197.4 ---> 201.5: Tenet tracks the algorithm to sator's hometown in northern siberia.
+201.5 ---> 205.9: In a temporal pincer movement, the red team troops advance forward in time.
+205.9 ---> 207.9: Meanwhile, the blue team troops move backward in time.
+207.9 ---> 213.6: The protagonist and Ives receive assistance from a masked corpse of a blue team trooper, recognizable by the red trinket on his backpack.
+213.6 ---> 215.8: This man is died in reverse.
+216.8 ---> 219.8: In vietnam, Kat boards Sator's yacht and kills him.
+220.6 ---> 222.8: As the protagonist and Ives secure the algorithm, their mission progresses.
+222.8 ---> 228.6: The protagonist Neil and Ives break up the algorithm and part ways.
+228.6 ---> 232.6: The protagonist notices the trinket on Neil's rucksack.
+232.6 ---> 236.1: Neil reveals he was recruited by the protagonist in the future.
+236.1 ---> 237.9: And this mission is the end of their long friendship.
+237.9 ---> 241.2: Priya attempts to have Kat assassinated.
+241.2 ---> 250.2: However, the protagonist intervenes, killing Priya and revealing himself as the mastermind behind Tenet.

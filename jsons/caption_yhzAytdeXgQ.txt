@@ -1,57 +1,57 @@
-0.0 ---> 6.5: Albus Dumbledore, Nerva McGonagall and Rubeus Hagrid, professors of Hogwarts, School of Witchcraft and Wizardry
-6.5 ---> 10.8: deliver an orphaned infant named Harry Potter to his only remaining relatives, the Dursleys.
-10.8 ---> 15.4: ten years later harry has been battling a disjointed life with the Dursleys,
-15.4 ---> 18.6: inadvertently causing an accident during a family outing
-18.6 ---> 20.7: and begins receiving unsolicited letters by owls.
-20.7 ---> 25.0: finally Hagrid reappears and Harry learns he is actually a wizard,
-25.0 ---> 26.8: and has been accepted into Hogwarts against the Dursleys wishes.
-26.8 ---> 30.7: after taking Harry to Diagon Alley to buy his supplies for Hogwarts
-30.7 ---> 34.9: including a uniform a wand and a pet owl named Hedwig as a birthday present,
-34.9 ---> 36.9: Hagrid informs him of his past.
-36.9 ---> 39.1: Harry is the orphaned son of two wizards,
-39.1 ---> 42.8: who met their demise at the hands of Lord Voldemort, a malevolent all-powerful wizard.
-42.8 ---> 46.3: With Harry being the only survivor in the chaos,
-46.3 ---> 49.7: thus leading to his fame in the Wizarding World as the Boy Who Lived.
-49.7 ---> 53.6: Harry is then taken to Kings Cross station to board a train to the school,
-53.6 ---> 57.7: while on the train Harry meets Ron Weasley and Hermione Granger.
-57.7 ---> 61.7: he also encounters Draco Malfoy, a spoiled child from a wealthy Wizarding family,
-61.7 ---> 63.5: who eventually becomes Harry's biggest rival.
-63.5 ---> 65.4: at school the students assemble in the Great Hall
-65.4 ---> 69.3: where Harry and all the other first-year students are sorted by the sorting hat,
-69.8 ---> 74.5: between four houses Gryffindor, Hufflepuff, Ravenclaw and Slytherin.
+0.0 ---> 4.5: Albus Dumbledore, Nerva McGonagall and Rubeus Hagrid, is professors of Hogwarts.
+4.5 ---> 6.5: And Hogwarts is theSchool of Witchcraft and Wizardry.
+6.5 ---> 10.8: They deliver an orphaned infant named Harry Potter to his only remaining relatives, the Dursleys.
+10.8 ---> 15.4: Ten years later, Harry has been battling a disjointed life with the Dursleys.
+15.4 ---> 18.6: During a family outing, he inadvertently causes an accident.
+18.6 ---> 20.7: Soon after, he begins receiving unsolicited letters delivered by owls.
+20.7 ---> 25.0: Finally, Hagrid reappears and reveals to Harry that he is, in fact, a wizard.
+25.0 ---> 26.8: And Harry been accepted into Hogwarts against the Dursleys wishes.
+26.8 ---> 30.7: Hagrid takes Harry to Diagon Alley to buy his supplies for Hogwarts.
+30.7 ---> 34.9: Among his purchases are a uniform, a wand, and a pet owl named Hedwig, which is given to him as a birthday present.
+34.9 ---> 36.9: Hagrid takes the opportunity to enlighten Harry about his past.
+36.9 ---> 39.1: Harry is an orphaned son, his parents both being wizards.
+39.1 ---> 42.8: Unfortunately, they met their demise at the hands of Lord Voldemort, an all-powerful and malevolent wizard.
+42.8 ---> 46.3: Harry was the only survivor in the chaos.
+46.3 ---> 49.7: And this leads to his fame in the Wizarding World as the Boy Who Lived.
+49.7 ---> 53.6: Harry is then taken to Kings Cross station to board a train to the school.
+53.6 ---> 57.7: On the train Harry meets Ron Weasley and Hermione Granger.
+57.7 ---> 61.7: He also encounters Draco Malfoy, a spoiled child from a wealthy Wizarding family.
+61.7 ---> 63.5: Draco eventually becomes Harry's biggest rival.
+63.5 ---> 65.4: At school, all the students gather in the Great Hall.
+65.4 ---> 69.3: There, Harry and the other first-year students go through the sorting ceremony, with the Sorting Hat determining their houses.
+69.8 ---> 74.5: The students are sorted into one of the four houses: Gryffindor, Hufflepuff, Ravenclaw, and Slytherin.
 74.5 ---> 77.7: Harry is placed into Gryffindor alongside Ron and Hermione
-77.7 ---> 81.6: at Hogwarts Harry begins learning wizardry and discovers more about his past and his parents.
-81.6 ---> 85.6: Harry is also recruited for Gryffindor Quidditch team as a seeker,
-85.6 ---> 87.3: which is rare for first-year students.
-87.3 ---> 89.0: while exploring the school one night,
-89.0 ---> 93.6: Harry and his friends discover a giant three-headed dog named fluffy in a restricted area of the school.
-94.6 ---> 98.8: they later find out fluffy is guarding the Philosopher's Stone, an item that can be used to grant its owner immortality.
-98.8 ---> 103.8: Harry suspects that potions teacher Severus Snape is trying to obtain the stone,
-103.8 ---> 105.3: in order to return Baltimore to physical form.
-105.3 ---> 108.9: the children learn from Hagrid the fluffy will fall asleep if he hears music.
-108.9 ---> 112.2: Harry Ron and Hermione decide to try and find the stone before Snape does
-112.2 ---> 114.9: but discover that fluffy is already asleep.
-114.9 ---> 117.4: to get past fluffy and faced a series of safeguards
-117.4 ---> 121.0: which includes surviving a deadly plant known as Devils snare,
-121.0 ---> 122.8: a room filled with aggressive flying keys,
-122.8 ---> 124.8: and a dangerous life-sized game of chess.
-124.8 ---> 127.0: after getting past the tasks,
-127.0 ---> 130.1: Harry discovers that it was Defense Against the Dark Arts teacher Professor Quirrell
+77.7 ---> 81.6: At Hogwarts Harry begins learning wizardry and discovers more about his past and his parents.
+81.6 ---> 85.6: Harry is also recruited for Gryffindor Quidditch team as a seeker.
+85.6 ---> 87.3: This is rare for first-year students.
+87.3 ---> 89.0: One night, while exploring the school, Harry and his friends find something extraordinary.
+89.0 ---> 93.6: Harry and his friends discover a giant three-headed dog named Fluffy in a restricted area of the school.
+94.6 ---> 98.8: They later find out Fluffy is guarding the Philosopher's Stone, an item that can be used to grant its owner immortality.
+98.8 ---> 103.8: Harry suspects that potions teacher Severus Snape is trying to obtain the stone。
+103.8 ---> 105.3: Because he want to return Voldemort to physical form.
+105.3 ---> 108.9: The children learn from Hagrid the Fluffy will fall asleep if he hears music.
+108.9 ---> 112.2: Harry, Ron and Hermione decide to try and find the stone before Snape does.
+112.2 ---> 114.9: However, they discover that Fluffy is already fast asleep there.
+114.9 ---> 117.4: They get past Fluffy and then faces a series of safeguards.
+117.4 ---> 121.0: They survive a deadly plant known as Devils snare.
+121.0 ---> 122.8: They pass a room filled with aggressive flying keys.
+122.8 ---> 124.8: And they even play a dangerous life-sized game of chess.
+124.8 ---> 127.0: After successfully overcoming these tasks, they progress further.
+127.0 ---> 130.1: Harry discovers that it was Defense Against the Dark Arts teacher, Professor Quirrell,
 130.1 ---> 133.5: who was trying to claim the stone and that Snape was protecting Harry all along.
 133.5 ---> 135.5: Quirrell removes his turban and reveals a weak Voldemort to be living on the back of his head.
-138.2 ---> 139.9: through an enchantment place by Professor Dumbledore
+138.2 ---> 139.9: Through an enchantment place by Professor Dumbledore,
 139.9 ---> 142.5: Harry finds himself in possession of the stone.
 142.5 ---> 146.9: Voldemort attempts to convince Harry to give him the stone but promising to bring his parents back from the dead.
-146.9 ---> 149.5: when Harry refuses, Quirrell attacks,
-149.5 ---> 153.1: but Harry's touch burns Quirrell skin and reduces him to dust, killing him.
-153.1 ---> 159.1: when Harry gets back up, Voldemort spirit rises from quarles ashes and passes through Harry knocking him unconscious.
-159.1 ---> 162.2: Harry wakes up in the school's hospital with Dumbledore at his side.
+146.9 ---> 149.5: When Harry refuses, Quirrell attacks.
+149.5 ---> 153.1: However, Harry's touch burns Quirrell skin and reduces him to dust, killing him.
+153.1 ---> 159.1: When Harry gets back up, Voldemort spirit rises from quarles ashes and passes through Harry knocking him unconscious.
+159.1 ---> 162.2: Then Harry wakes up in the school's hospital with Dumbledore at his side.
 162.2 ---> 166.4: Dumbledore explains that the stone has been destroyed and that Ron and Hermione are both fine.
-166.4 ---> 169.3: Dumbledore also reveals how Harry was able to defeat Worrell.
-169.3 ---> 173.1: when Harry's mother died, to save him, her death gave Harry a love based protection.
-173.1 ---> 176.5: Harry, Ron and Hermione are rewarded with house points for their heroic performances,
-176.5 ---> 179.5: tying them for first place with Slytherin.
-179.5 ---> 183.0: however, Neville Longbottom has awarded 10 points for attempting to stop his friends,
-183.0 ---> 185.8: giving Gryffindor enough points to win the house Cup.
-185.8 ---> 187.7: Harry returns home for the summer,
-187.7 ---> 189.8: happy to finally have a real home in Hogwarts.
+166.4 ---> 169.3: Dumbledore also reveals how Harry was able to defeat Voldemort.
+169.3 ---> 173.1: When Harry's mother died, to save him, her death gave Harry a love based protection.
+173.1 ---> 176.5: Finally, Harry, Ron and Hermione are rewarded with house points for their heroic performances。
+176.5 ---> 179.5: They tying for first place with Slytherin.
+179.5 ---> 183.0: Surprisingly, Neville Longbottom is as rewarded 10 points for attempting to stop his friends.
+183.0 ---> 185.8: This gives Gryffindor enough points to win the house Cup.
+185.8 ---> 189.8: In the end, Harry returns home for the summer, happy to finally have a real home in Hogwarts.

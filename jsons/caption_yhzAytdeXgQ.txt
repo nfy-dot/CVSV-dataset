@@ -1,11 +1,11 @@
-0.0 ---> 4.5: Albus Dumbledore, Nerva McGonagall and Rubeus Hagrid, is professors of Hogwarts.
-4.5 ---> 6.5: And Hogwarts is theSchool of Witchcraft and Wizardry.
-6.5 ---> 10.8: They deliver an orphaned infant named Harry Potter to his only remaining relatives, the Dursleys.
+0.0 ---> 4.5: Albus Dumbledore, Nerva McGonagall and Rubeus Hagrid appear on a street.
+4.5 ---> 6.5: They are professors of Hogwarts, the School of Witchcraft and Wizardry.
+6.5 ---> 10.8: They are here to deliver an orphaned infant named Harry Potter to his only remaining relatives, the Dursleys.
 10.8 ---> 15.4: Ten years later, Harry has been battling a disjointed life with the Dursleys.
 15.4 ---> 18.6: During a family outing, he inadvertently causes an accident.
 18.6 ---> 20.7: Soon after, he begins receiving unsolicited letters delivered by owls.
-20.7 ---> 25.0: Finally, Hagrid reappears and reveals to Harry that he is, in fact, a wizard.
-25.0 ---> 26.8: And Harry been accepted into Hogwarts against the Dursleys wishes.
+20.7 ---> 25.0: Finally, one day, Hagrid reappears and reveals to Harry that he is, in fact, a wizard.
+25.0 ---> 26.8: Harry is told that he has been accepted into Hogwarts against the Dursleys wishes.
 26.8 ---> 30.7: Hagrid takes Harry to Diagon Alley to buy his supplies for Hogwarts.
 30.7 ---> 34.9: Among his purchases are a uniform, a wand, and a pet owl named Hedwig, which is given to him as a birthday present.
 34.9 ---> 36.9: Hagrid takes the opportunity to enlighten Harry about his past.

@@ -1,9 +1,9 @@
-0.0 ---> 3.8: In 1869, in Brantford New Hampshire, something happened.
-3.8 ---> 7.6: Two brothers buries a chest and hopes that no one ever finds it.
+0.0 ---> 3.8: In 1869, in Brantford New Hampshire.
+3.8 ---> 7.6: Two brothers buries a chest hoping that no one ever finds it.
 7.6 ---> 9.4: A century later in 1969.
 9.4 ---> 14.2: 12-year-old Allen Parish escapes a group of bullies led by Billy Jessup.
 14.2 ---> 15.6: He retreats to his father Sam's factory.
-16.6 ---> 18.9: There, he meet his friend Karl Bentley.
+16.6 ---> 18.9: There he meet his friend Karl Bentley.
 18.9 ---> 21.6: Karl reveals a new shoe prototype he made by himself.
 21.6 ---> 23.6: Allen misplaces the shoe and damaged a machine.
 23.6 ---> 25.0: However, Karl took responsibility for the mishap.
